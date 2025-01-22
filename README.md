@@ -1,4 +1,4 @@
-# India-Job-Market-Analysis
+# India Job Market Analysis
 
 This repository contains an interactive analysis of the Indian job market, utilizing various visualizations and data insights. The analysis covers job postings by role, skill demand across companies, and industry-wise job distribution.
 
@@ -9,4 +9,4 @@ This repository contains an interactive analysis of the Indian job market, utili
 Industry-Wise Job Distribution: A treemap that visualizes job distribution by job type, title, and location. The hierarchical structure makes it easy to explore employment patterns across different industries and cities.
 
 
-**Data was retireved from Kaggle**
+**Note: Data was retireved from Kaggle. Some libriaries may need to be installed on your end to render graphs.**
